@@ -3,6 +3,7 @@
 /.vscode
 /build
 /distribution/CSV_to_PDF
-/OtherFiles/Testfiles
+/OtherFiles
 /source/__pycache__
 .env
+.gitignore
