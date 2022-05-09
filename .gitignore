@@ -1,0 +1,8 @@
+# Exclude the following dir and files
+/.mypy_cache
+/.vscode
+/build
+/distribution/CSV_to_PDF
+/OtherFiles/Testfiles
+/source/__pycache__
+.env
